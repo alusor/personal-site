@@ -11,9 +11,9 @@ function Home () {
   return (
     <>
     <Head>
-      <title>Eduardo velez blog personal</title>
+      <title>Running on next 10 :)</title>
     </Head>
-    <Title>Hola mundo</Title>
+    <Title>Esto funciona bastante rapido :o</Title>
     </>
   )
 }
